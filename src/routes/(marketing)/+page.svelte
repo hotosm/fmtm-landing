@@ -22,7 +22,7 @@
         "Built by the community, for the community that wishes to use it.",
       linkText: "Guidelines",
       newPage: true,
-      link: "https://fmtm.dev/CONTRIBUTING/#code-contribution-guidelines",
+      link: "https://docs.fmtm.dev/CONTRIBUTING/#code-contribution-guidelines",
       svgContent: `
       <circle cx="10" cy="6" r="4" stroke="#1C274C" stroke-width="1.5"/>
 <path d="M18 17.5C18 19.9853 18 22 10 22C2 22 2 19.9853 2 17.5C2 15.0147 5.58172 13 10 13C14.4183 13 18 15.0147 18 17.5Z" stroke="#1C274C" stroke-width="1.5"/>
@@ -167,7 +167,7 @@
         <a href="https://github.com/hotosm/fmtm">
           <button class="btn btn-primary btn-sm px-6">★ us on Github</button>
         </a>
-        <a href="https://fmtm.dev">
+        <a href="https://docs.fmtm.dev">
           <button class="btn btn-outline btn-primary btn-sm px-6 mt-3 mx-2"
             >Read the Docs</button
           >
