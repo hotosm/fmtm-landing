@@ -15,6 +15,7 @@
           >★ us on Github</a
         >
       </li>
+      <li class="md:mx-2"><a href="https://docs.fmtm.dev">Docs</a></li>
       <li class="md:mx-2"><a href="/pricing">Pricing</a></li>
     </ul>
     <div class="dropdown dropdown-end sm:hidden">
@@ -41,6 +42,7 @@
         class="menu menu-lg dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 font-bold"
       >
         <li><a href="/pricing">Pricing</a></li>
+        <li class="md:mx-2"><a href="https://docs.fmtm.dev">Docs</a></li>
         <li>
           <a href="https://github.com/hotosm/fmtm" class="border border-primary"
             >★ us on Github</a
