@@ -56,7 +56,7 @@
 <div class="min-h-[70vh] pb-8 pt-[5vh] px-4">
   <h1 class="text-3xl font-bold text-center">Pricing</h1>
   <h2 class="text-xl text-center text-slate-500 mt-1 pb-3">
-    Totally free, scale to millions of users
+    Fully managed solutions, scale to thousands of users
   </h2>
 
   <div class="w-full my-8">
@@ -67,48 +67,44 @@
         <div class="collapse collapse-arrow join-item border border-primary">
           <input type="radio" name="faq-accordion" />
           <div class="collapse-title text-lg font-medium">
-            Is this template free to use?
-          </div>
-          <div class="collapse-content">
-            <p>Yup! This template is free to use for any project.</p>
-          </div>
-        </div>
-        <div class="collapse collapse-arrow join-item border border-primary">
-          <input type="radio" name="faq-accordion" />
-          <div class="collapse-title text-lg font-medium">
-            Why does a free template have a pricing page?
+            Is FMTM free to use?
           </div>
           <div class="collapse-content">
             <p>
-              The pricing page is part of the boilerplate. It shows how the
-              pricing page integrates into the billing portal and the Stripe
-              Checkout flows.
+              Yes! Anyone is welcome to use HOT's managed server for fully
+              public, community run mapping campaigns.
             </p>
           </div>
         </div>
         <div class="collapse collapse-arrow join-item border border-primary">
           <input type="radio" name="faq-accordion" />
           <div class="collapse-title text-lg font-medium">
-            What license is the template under?
+            What is the difference between supporting hundreds or thousands of
+            users?
           </div>
           <div class="collapse-content">
-            <p>The template is under the MIT license.</p>
+            <p>
+              The deployment for a hundred users is an optimised version of the
+              self-deployment method. This could quite possibly handle more
+              users, but is not guaranteed.
+            </p>
+            <br />
+            <p>
+              The deployment for a thousand users or more is via an industry
+              standard tool called Kubernetes. This tool is highly resilient to
+              load and reduces possible failures.
+            </p>
           </div>
         </div>
         <div class="collapse collapse-arrow join-item border border-primary">
           <input type="radio" name="faq-accordion" />
           <div class="collapse-title text-lg font-medium">
-            Can I try out purchase flows without real a credit card?
+            Why does the self-hosted option have a pricing page?
           </div>
           <div class="collapse-content">
             <p>
-              Our demo page <a href="https://saasstarter.work" class="link"
-                >SaasStarter.work</a
-              > has a functional demo page, using Stripe's test environment.
-            </p>
-            <p class="mt-4">
-              You can use the credit card number 4242 4242 4242 4242 with any
-              future expiry date to test the payment and upgrade flows.
+              To contrast what is provided in the free self-hosted option
+              against what is provided in the paid packages.
             </p>
           </div>
         </div>
@@ -142,7 +138,7 @@
       </defs>
     </svg>
 
-    <h1 class="text-2xl font-bold text-center mt-16">Plan Features</h1>
+    <!-- <h1 class="text-2xl font-bold text-center mt-16">Plan Features</h1>
     <h2 class="text-xl text-center text-slate-500 mt-1 pb-3">
       Example feature table
     </h2>
@@ -154,8 +150,8 @@
         >
           <tr>
             <th></th>
-            <th class="text-center">Free</th>
-            <th class="text-center">Pro</th>
+            <th class="text-center">Standard</th>
+            <th class="text-center">Professional</th>
           </tr>
         </thead>
         <tbody>
@@ -210,6 +206,6 @@
           {/each}
         </tbody>
       </table>
-    </div>
+    </div> -->
   </div>
 </div>

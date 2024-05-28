@@ -9,18 +9,19 @@ export default {
     themes: [
       {
         saasstartertheme: {
-          primary: "#180042",
-          "primary-content": "#fefbf6",
-          secondary: "#c7b9f8",
-          neutral: "#180042",
-          "neutral-content": "#fefbf6",
-          accent: "#db2777",
-          "accent-content": "#180042",
-          "base-content": "#180042",
-          "base-100": "#fefbf6",
-          "base-200": "#faedd6",
-          success: "#37d399",
-          error: "#f77272",
+          primary: "#d63f3f", // hot-red
+          "primary-content": "#ffffff", // hot-white
+          secondary: "#4f5765", // hot-gray-700
+          "secondary-content": "#ffffff", // hot-white
+          neutral: "#2c3038", // hot-gray-900
+          "neutral-content": "#ffffff", // hot-white
+          accent: "#7c2e26", // hot-darkred-700
+          "accent-content": "#ffffff", // hot-white
+          "base-content": "#2c3038", // hot-black
+          "base-100": "#fefbf6", // very light background
+          "base-200": "#eeeef0", // light gray background
+          success: "#57c1bd", // hot-green-300
+          error: "#7c2e26", // hot-darkred-700
         },
       },
     ],

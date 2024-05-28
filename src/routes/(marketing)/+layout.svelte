@@ -4,14 +4,15 @@
 
 <div class="navbar bg-base-100 container mx-auto">
   <div class="flex-1">
-    <a class="btn btn-ghost normal-case text-xl" href="/">Field Mapping Tasking Manager</a>
+    <a class="btn btn-ghost normal-case text-xl" href="/"
+      >Field Mapping Tasking Manager</a
+    >
   </div>
   <div class="flex-none">
     <ul class="menu menu-horizontal px-1 hidden sm:flex font-bold text-lg">
       <li class="md:mx-4">
-        <a
-          href="https://github.com/hotosm/fmtm"
-          class="border border-primary">★ us on Github</a
+        <a href="https://github.com/hotosm/fmtm" class="border border-primary"
+          >★ us on Github</a
         >
       </li>
       <li class="md:mx-2"><a href="/pricing">Pricing</a></li>
@@ -41,9 +42,8 @@
       >
         <li><a href="/pricing">Pricing</a></li>
         <li>
-          <a
-            href="https://github.com/hotosm/fmtm"
-            class="border border-primary">★ us on Github</a
+          <a href="https://github.com/hotosm/fmtm" class="border border-primary"
+            >★ us on Github</a
           >
         </li>
       </ul>
@@ -66,24 +66,23 @@
       <span class="footer-title opacity-80">Explore</span>
       <a class="link link-hover mb-1" href="/">Overview</a>
       <a class="link link-hover my-1" href="/pricing">Pricing</a>
-      <a class="link link-hover my-1" href="mailto:sam.woodcock@hotosm.org">Contact Us</a>
-      <a
-        class="link link-hover my-1"
-        href="https://github.com/hotosm/fmtm">Github</a
+      <a class="link link-hover my-1" href="mailto:sam.woodcock@hotosm.org"
+        >Contact Us</a
+      >
+      <a class="link link-hover my-1" href="https://github.com/hotosm/fmtm"
+        >Github</a
       >
     </nav>
     <aside>
       <span class="footer-title opacity-80">Sponsor</span>
-      <a
-        class="link link-hover max-w-[260px]"
-        href="https://hotosm.org"
-      >
+      <a class="link link-hover max-w-[260px]" href="https://hotosm.org">
         <img
           alt="HOTOSM Logo"
           src="/images/hot_logo.svg"
           class="w-[180px] mb-3 aspect-[420/154]"
         />
-        HOT is an international team dedicated to humanitarian action and community development through open mapping.
+        HOT is an international team dedicated to humanitarian action and community
+        development through open mapping.
       </a>
     </aside>
   </footer>
