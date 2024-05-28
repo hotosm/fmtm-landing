@@ -34,7 +34,7 @@ export const pricingPlans = [
     price: "$499",
     priceIntervalName: "per month",
     features: [
-      "Everything in Pro",
+      "Everything in Professional",
       "Support thousands of users",
       "Direct communication channel to devs",
     ],
