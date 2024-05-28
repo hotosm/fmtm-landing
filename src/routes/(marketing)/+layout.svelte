@@ -14,9 +14,7 @@
           class="border border-primary">★ us on Github</a
         >
       </li>
-      <!-- <li class="md:mx-2"><a href="/blog">Blog</a></li> -->
       <li class="md:mx-2"><a href="/pricing">Pricing</a></li>
-      <!-- <li class="md:mx-2"><a href="/account">Account</a></li> -->
     </ul>
     <div class="dropdown dropdown-end sm:hidden">
       <!-- svelte-ignore a11y-label-has-associated-control -->
@@ -41,9 +39,7 @@
         tabindex="0"
         class="menu menu-lg dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 font-bold"
       >
-        <!-- <li><a href="/blog">Blog</a></li> -->
         <li><a href="/pricing">Pricing</a></li>
-        <!-- <li><a href="/account">Account</a></li> -->
         <li>
           <a
             href="https://github.com/hotosm/fmtm"
@@ -70,8 +66,7 @@
       <span class="footer-title opacity-80">Explore</span>
       <a class="link link-hover mb-1" href="/">Overview</a>
       <a class="link link-hover my-1" href="/pricing">Pricing</a>
-      <!-- <a class="link link-hover my-1" href="/blog">Blog</a> -->
-      <a class="link link-hover my-1" href="/contact_us">Contact Us</a>
+      <a class="link link-hover my-1" href="mailto:sam.woodcock@hotosm.org">Contact Us</a>
       <a
         class="link link-hover my-1"
         href="https://github.com/hotosm/fmtm">Github</a
