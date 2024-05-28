@@ -1,4 +1,3 @@
-export const WebsiteName: string = "SaaS Starter"
-export const WebsiteBaseUrl: string = "https://saasstarter.work"
-export const WebsiteDescription: string =
-  "Open source, fast, and free to host SaaS template. Built with SvelteKit, Supabase, Stripe, Tailwind, DaisyUI, and Postgres"
+export const WebsiteName: string = "Field Mapping TM"
+export const WebsiteBaseUrl: string = "https://fmtm.hotosm.org"
+export const WebsiteDescription: string = "Field Mapping Tasking Manager - coordinated field mapping."
