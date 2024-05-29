@@ -79,6 +79,20 @@
         <div class="collapse collapse-arrow join-item border border-primary">
           <input type="radio" name="faq-accordion" />
           <div class="collapse-title text-lg font-medium">
+            So why do I need a paid service?
+          </div>
+          <div class="collapse-content">
+            <p>
+              Your use case may not. However, managing a software server is no easy task
+              and we can deal with lots of the complexity for you. The paid service also
+              ensures regular updates and long term support. HOT is an NGO that produces
+              open-source software, so your support ❤ is highly appreciated.
+            </p>
+          </div>
+        </div>
+        <div class="collapse collapse-arrow join-item border border-primary">
+          <input type="radio" name="faq-accordion" />
+          <div class="collapse-title text-lg font-medium">
             What is the difference between supporting hundreds or thousands of
             users?
           </div>
@@ -92,14 +106,14 @@
             <p>
               The deployment for a thousand users or more is via an industry
               standard tool called Kubernetes. This tool is highly resilient to
-              load and reduces possible failures.
+              load and reduces possible failures, but also brings more complexity.
             </p>
           </div>
         </div>
         <div class="collapse collapse-arrow join-item border border-primary">
           <input type="radio" name="faq-accordion" />
           <div class="collapse-title text-lg font-medium">
-            Why does the self-hosted option have a pricing page?
+            Why does the self-hosted option have a $0 price?
           </div>
           <div class="collapse-content">
             <p>
