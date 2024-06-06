@@ -83,10 +83,11 @@
           </div>
           <div class="collapse-content">
             <p>
-              Your use case may not. However, managing a software server is no easy task
-              and we can deal with lots of the complexity for you. The paid service also
-              ensures regular updates and long term support. HOT is an NGO that produces
-              open-source software, so your support ❤ is highly appreciated.
+              Your use case may not. However, if you require private data collection for internal
+              projects, or support many simultaneous users, it may be best to have your own instance.
+              Managing a software server is no easy task and we can deal with lots of the complexity
+              for you. The paid service also ensures regular updates and long term support.
+              HOT is an NGO that produces open-source software, so your support ❤ is highly appreciated.
             </p>
           </div>
         </div>
