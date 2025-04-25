@@ -1,5 +1,8 @@
 # SaaS Starter
 
+> [!WARNING]
+> This repo was a proof of concept and has now been archived.
+
 [![Build](https://github.com/CriticalMoments/CMSaasStarter/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/CriticalMoments/CMSaasStarter/actions/workflows/build.yml)
 [![Format Check](https://github.com/CriticalMoments/CMSaasStarter/actions/workflows/format.yml/badge.svg?branch=main)](https://github.com/CriticalMoments/CMSaasStarter/actions/workflows/format.yml)
 [![Linting](https://github.com/CriticalMoments/CMSaasStarter/actions/workflows/linting.yml/badge.svg?branch=main)](https://github.com/CriticalMoments/CMSaasStarter/actions/workflows/linting.yml)
